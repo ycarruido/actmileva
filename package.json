@@ -1,0 +1,17 @@
+{
+  "name": "wallpaper-tools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "firebase-admin": "^13.7.0",
+    "sharp": "^0.34.5",
+    "simple-git": "^3.32.3"
+  }
+}
